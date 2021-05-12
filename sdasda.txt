@@ -12,3 +12,6 @@ git push -u origin main
 git remote add origin https://github.com/JonesChanTW/gittest.git
 git branch -M main
 git push -u origin main
+
+asdasdasdasd
+sdasdadas
